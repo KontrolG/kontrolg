@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I’m German, nice to meet you.:blush:</h1>
 <p align="center">
   <a href="https://germansdev.vercel.app/" target="_blank">Website</a> •
-  <a href="https://www.linkedin.com/in/germansdev/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/germansdev/" target="_blank">LinkedIn</a> •
+  <a href="https://kontrolg.github.io/curriculum.pdf" target="_blank">My CV</a>
 </p>
 
 ### About me
