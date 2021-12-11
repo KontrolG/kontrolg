@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/germansdev/">LinkedIn</a>
 </p>
 
-## About me
+### About me
 I'm self-taught programmer with practical experience in developing web applications with ReactJS, willing to learn and master emerging technologies in the Frontend field. Javascript / ES9, HTML5 and CSS3 specialist.
 
-## languages and tools
+### languages and tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -21,7 +21,7 @@ I'm self-taught programmer with practical experience in developing web applicati
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-## More about me
+### More about me
 
 - 🔭 I’m currently working as **Frontend Web Developer @ <a href="https://www.linkedin.com/company/64713065/">Famosos Inc.</a>**
 - 🌱 I’m currently learning **React Native**.
