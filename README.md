@@ -1,10 +1,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I’m German, nice to meet you.:blush:</h1>
 <p align="center">
-  <a href="https://germansdev.vercel.app/">Website</a> •
-  <a href="https://www.linkedin.com/in/germansdev/">LinkedIn</a>
+  <a href="https://germansdev.vercel.app/" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/germansdev/" target="_blank">LinkedIn</a>
 </p>
 
 ### About me
+
 I'm self-taught programmer with practical experience in developing web applications with ReactJS, willing to learn and master emerging technologies in the Frontend field. Javascript / ES9, HTML5 and CSS3 specialist.
 
 ### languages and tools
@@ -19,15 +20,13 @@ I'm self-taught programmer with practical experience in developing web applicati
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-
 ### More about me
 
-- 🔭 I’m currently working as **Frontend Web Developer @ <a href="https://www.linkedin.com/company/64713065/">Famosos Inc.</a>**
+- 🔭 I’m currently working as **Frontend Web Developer @ <a href="https://www.linkedin.com/company/64713065/" target="_blank">Famosos Inc.</a>**
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me about anything related to web development 😊.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/germansdev/">LinkedIn</a>, <a href="https://germansdev.vercel.app/">Website</a>, <a href="mailto:germansdev@gmail.com">germansdev@gmail.com</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/germansdev/" target="_blank">LinkedIn</a>, <a href="https://germansdev.vercel.app/" target="_blank">Website</a>, <a href="mailto:germansdev@gmail.com" target="_blank">germansdev@gmail.com</a>.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can do one Handstand pushup 💪🏻.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kontrolg&layout=compact&theme=dark&hide_border=true)](https://github.com/kontrolg/github-readme-stats)
-
