@@ -13,3 +13,5 @@ I'm self-taught programmer with practical experience in developing web applicati
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can do one Handstand pushup 💪🏻.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kontrolg)](https://github.com/kontrolg/github-readme-stats)
+
